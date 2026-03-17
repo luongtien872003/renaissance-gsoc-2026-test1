@@ -2,18 +2,14 @@
 
 Automated OCR for early modern Spanish printed documents — HumanAI GSoC 2026.
 
-[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://python.org)
-[![Tesseract 5](https://img.shields.io/badge/OCR-Tesseract%205-green.svg)](https://github.com/tesseract-ocr/tesseract)
-[![Colab](https://img.shields.io/badge/run%20in-Google%20Colab-orange.svg)](https://colab.research.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luongtien872003/renaissance-gsoc-2026-test1/blob/main/renaissance_ocr_colab.ipynb)
 
 ---
 ## Author
 Luong Minh Tien  
 Email: luongtien872003@gmail.com
 ---
-# 🏛️ RenAIssance OCR Pipeline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luongtien872003/renaissance-gsoc-2026-test1/blob/main/renaissance_ocr_colab.ipynb)
 
 ---
 ## 1 · Project Overview
